@@ -6,6 +6,10 @@ This is meant to be an exploration of wave data from NOAA buoys.
 The data here is pulled from NOAA and their repoistory of buoy data.
 https://www.ndbc.noaa.gov/data/realtime2/1801583.drift
 
+#### Explanations of Fields
+Explanations of what each field means can be found here: https://www.ndbc.noaa.gov/faq/measdes.shtml
+
+
 ### Hourly Data
 #### Wave height status (Hourly)
 This one tabular query provides the wave height statuses for a given region of buoys (hourly data). The example below uses Southern California: https://www.ndbc.noaa.gov/data/hourly2/hour_08.spec
